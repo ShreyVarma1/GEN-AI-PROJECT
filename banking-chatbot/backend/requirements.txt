@@ -1,3 +1,9 @@
+# Force CPU-only PyTorch BEFORE sentence-transformers installs it
+# This prevents the massive CUDA/GPU packages from being pulled in on Render free tier
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.3.1+cpu
+torchvision==0.18.1+cpu
+
 fastapi>=0.111.0
 uvicorn[standard]>=0.29.0
 python-multipart>=0.0.9
