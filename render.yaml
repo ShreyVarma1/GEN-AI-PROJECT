@@ -28,8 +28,9 @@ services:
       - key: ALLOWED_ORIGINS
         value: "*"
 
-  - type: static
+  - type: web
     name: banking-chatbot-frontend
+    env: static
     buildCommand: npm ci && npm run build
     staticPublishPath: dist
     rootDir: banking-chatbot/frontend
