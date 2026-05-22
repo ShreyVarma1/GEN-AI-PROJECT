@@ -143,7 +143,7 @@ export function useChat() {
   );
 
   const sendMessage = useCallback(
-    async (text: string, useStream = true) => {
+    async (text: string, useStream = false) => {
       if (!text.trim() || isLoading) return;
 
       setError(null);
