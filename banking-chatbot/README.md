@@ -363,7 +363,8 @@ For CI/CD auto-deploy on every push to `main`, add `RENDER_DEPLOY_HOOK_URL` to y
 | **Record demo video** | 5–10 min walkthrough of architecture, RAG flow, and deployment |
 | **Add deployment URL to README** | Replace the placeholder below once deployed |
 
-> **Deployed URL:** `https://your-app.onrender.com` ← replace this after deployment
+> **Deployed URL:** https://banking-chatbot-backend-zqkq.onrender.com
+                    https://banking-chatbot-frontend-zm6h.onrender.com
 
 ---
 
