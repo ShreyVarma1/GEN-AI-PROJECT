@@ -21,15 +21,7 @@ async def lifespan(app: FastAPI):
     """Application startup and shutdown lifecycle."""
     logger.info("=== Banking Chatbot API Starting Up ===")
 
-    # Pre-load embedding model (warm up)
-    try:
-        from app.services.embeddings import get_embedding_model
-        get_embedding_model()
-        logger.info("Embedding model loaded.")
-    except Exception as e:
-        logger.error(f"Failed to load embedding model: {e}")
-
-    # Initialize ChromaDB
+    # Only initialize ChromaDB at startup (lightweight — no model loading)
     try:
         from app.services.vector_store import get_chroma_collection
         collection = get_chroma_collection()
@@ -37,14 +29,9 @@ async def lifespan(app: FastAPI):
     except Exception as e:
         logger.error(f"Failed to initialize ChromaDB: {e}")
 
-    # Auto-seed sample documents if collection is empty
-    try:
-        from app.services.vector_store import vector_store_service
-        if vector_store_service.get_collection_count() == 0:
-            logger.info("No documents indexed. Attempting to seed sample documents...")
-            await _seed_sample_documents()
-    except Exception as e:
-        logger.warning(f"Could not seed sample documents: {e}")
+    # NOTE: Embedding model and document seeding are intentionally deferred
+    # to the first request to stay within Render free tier 512MB RAM limit.
+    # The first query/upload will be slower (~10s) as the model loads.
 
     logger.info("=== Banking Chatbot API Ready ===")
     yield
