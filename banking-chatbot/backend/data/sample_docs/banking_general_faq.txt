@@ -1,0 +1,110 @@
+GENERAL BANKING FAQ
+====================
+
+1. ACCOUNT TYPES
+-----------------
+
+Q: What types of savings accounts do you offer?
+A: We offer the following savings account types:
+- Basic Savings Account: Zero minimum balance, basic features, free debit card
+- Regular Savings Account: Minimum balance Rs. 5,000 (metro/urban), Rs. 2,000 (semi-urban/rural), interest rate 3.5% p.a.
+- Premium Savings Account: Minimum balance Rs. 25,000, higher interest rate 4% p.a., free RTGS/NEFT, dedicated relationship manager
+- Senior Citizen Account: For customers aged 60+, higher FD rates (+0.50%), priority service
+- Salary Account: Zero minimum balance, linked to employer, free unlimited ATM transactions
+
+Q: What is the interest rate on savings accounts?
+A: Standard savings accounts earn 3.5% p.a. on daily balance. Premium accounts earn 4% p.a. Interest is credited quarterly.
+
+2. KYC PROCESS
+---------------
+
+Q: What is KYC and why is it required?
+A: KYC (Know Your Customer) is a mandatory RBI requirement to verify customer identity and prevent financial fraud and money laundering.
+
+Q: What documents are accepted for KYC?
+A: Officially Valid Documents (OVDs) accepted:
+- Identity Proof: Aadhaar Card, PAN Card, Passport, Voter ID, Driving License
+- Address Proof: Aadhaar Card, Passport, Utility Bills (electricity/water/gas, not older than 3 months), Bank Statement, Rental Agreement
+
+Q: How often is KYC renewal required?
+A: KYC renewal frequency based on risk category:
+- Low Risk customers: Every 10 years
+- Medium Risk customers: Every 8 years
+- High Risk customers: Every 2 years
+
+3. FUND TRANSFER LIMITS & CHARGES
+-----------------------------------
+
+NEFT (National Electronic Funds Transfer):
+- Minimum: Rs. 1 (no minimum)
+- Maximum: No upper limit (subject to account limits)
+- Charges: Free for online transactions; Rs. 2–25 for branch transactions based on amount
+- Timing: Available 24x7 (processed in half-hourly batches)
+
+RTGS (Real Time Gross Settlement):
+- Minimum: Rs. 2,00,000
+- Maximum: No upper limit
+- Charges: Free for online transactions; Rs. 25–50 for branch transactions
+- Timing: Available 24x7
+
+IMPS (Immediate Payment Service):
+- Minimum: Rs. 1
+- Maximum: Rs. 5,00,000 per transaction
+- Charges: Free up to Rs. 1,000; Rs. 5 for Rs. 1,001–1 lakh; Rs. 15 for above Rs. 1 lakh
+- Timing: 24x7, instant transfer
+
+UPI (Unified Payments Interface):
+- Maximum: Rs. 1,00,000 per transaction (Rs. 2,00,000 for verified merchants)
+- Charges: Free
+- Timing: 24x7, instant
+
+4. FIXED DEPOSITS
+------------------
+
+Q: What are the current FD interest rates?
+A: Fixed Deposit rates (per annum):
+- 7–14 days: 3.50%
+- 15–29 days: 4.00%
+- 30–45 days: 4.50%
+- 46–90 days: 5.00%
+- 91–180 days: 5.75%
+- 181 days – 1 year: 6.25%
+- 1 year – 2 years: 6.75%
+- 2 years – 3 years: 7.00%
+- 3 years – 5 years: 7.25%
+- 5 years – 10 years: 7.00%
+Senior Citizens receive an additional 0.50% on all tenures.
+
+Q: What is the minimum FD amount?
+A: Minimum FD amount is Rs. 1,000. There is no maximum limit.
+
+Q: Can I break my FD before maturity?
+A: Yes, premature withdrawal is allowed with a penalty of 1% on the applicable rate. Tax Saver FDs (5-year lock-in) cannot be broken prematurely.
+
+5. NOMINATION
+--------------
+
+Q: How do I add or change a nominee?
+A: You can add/change a nominee through: (1) Mobile app → Account Settings → Nomination, (2) Internet banking → Services → Nomination, (3) Visiting any branch with Form DA1.
+
+Q: Can I have multiple nominees?
+A: Yes, you can have up to 3 nominees with specified percentage shares. Total must equal 100%.
+
+6. GRIEVANCE REDRESSAL
+-----------------------
+
+Q: How do I register a complaint?
+A: Complaints can be registered through:
+- Mobile app: Help & Support → Raise a Complaint
+- Email: customercare@bank.com
+- Phone: 1800-XXX-XXXX (toll-free, 24x7)
+- Branch: Submit written complaint to Branch Manager
+
+Q: What are the resolution timelines?
+A: As per RBI guidelines:
+- Account-related queries: 3 working days
+- Transaction disputes: 7 working days
+- Loan-related complaints: 10 working days
+- Complex complaints: 30 working days
+
+If not resolved within 30 days, you may escalate to the Banking Ombudsman (RBI).

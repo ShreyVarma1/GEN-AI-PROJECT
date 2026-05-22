@@ -1,0 +1,85 @@
+PERSONAL LOANS - FREQUENTLY ASKED QUESTIONS
+============================================
+
+1. ELIGIBILITY & BASICS
+------------------------
+
+Q: Who is eligible for a personal loan?
+A: Salaried individuals aged 21–60 years with a minimum monthly income of Rs. 25,000 are eligible. Self-employed professionals aged 25–65 with a minimum annual income of Rs. 3,00,000 may also apply. A CIBIL score of 700 or above is required for standard rates.
+
+Q: What is the minimum and maximum loan amount?
+A: Personal loans are available from Rs. 50,000 to Rs. 40,00,000 depending on your income, credit profile, and repayment capacity.
+
+Q: What is the loan tenure?
+A: Loan tenure ranges from 12 months to 60 months (1 to 5 years). Longer tenures result in lower EMIs but higher total interest paid.
+
+Q: How quickly will my loan be disbursed?
+A: For pre-approved customers, disbursement happens within 4 hours of document submission. For new applicants, disbursement typically takes 2–5 working days after document verification and approval.
+
+2. INTEREST RATES & FEES
+-------------------------
+
+Q: What are the interest rates on personal loans?
+A: Interest rates range from 10.5% to 24% per annum depending on your credit score, income, employer category, and loan amount. Customers with CIBIL scores above 750 qualify for the lowest rates starting at 10.5% p.a.
+
+Q: What is the processing fee?
+A: A one-time processing fee of 1%–3% of the loan amount (minimum Rs. 999, maximum Rs. 15,000) plus applicable GST is charged. This is deducted from the disbursed amount.
+
+Q: Are there any prepayment charges?
+A: Prepayment is allowed after 6 EMIs. Prepayment charges are 2%–4% of the outstanding principal plus GST. Foreclosure (full prepayment) charges are 4% of outstanding principal plus GST.
+
+Q: Is there a late payment penalty?
+A: Yes. A late payment charge of 2% per month on the overdue EMI amount is levied if payment is not received within 3 days of the due date.
+
+3. EMI CALCULATION
+-------------------
+
+Q: How is my EMI calculated?
+A: EMI = [P × R × (1+R)^N] / [(1+R)^N – 1], where P = Principal, R = Monthly interest rate (Annual rate / 12 / 100), N = Number of months.
+
+Example: For a loan of Rs. 5,00,000 at 12% p.a. for 36 months:
+- Monthly rate R = 12/12/100 = 0.01
+- EMI = [5,00,000 × 0.01 × (1.01)^36] / [(1.01)^36 – 1]
+- EMI ≈ Rs. 16,607
+
+Q: Can I change my EMI date?
+A: Yes, you can request an EMI date change once per year. Allowed dates are 1st, 5th, 10th, 15th, or 25th of each month.
+
+4. DOCUMENTATION REQUIRED
+--------------------------
+
+Q: What documents are needed for a personal loan application?
+A: The following documents are required:
+- Identity Proof: Aadhaar Card, PAN Card, Passport, or Voter ID
+- Address Proof: Aadhaar Card, Utility Bill (not older than 3 months), Rental Agreement
+- Income Proof (Salaried): Last 3 months' salary slips, 6 months' bank statements, Form 16
+- Income Proof (Self-employed): Last 2 years' ITR with computation, 12 months' bank statements, business registration proof
+- Passport-size photographs (2 copies)
+
+Q: Is a guarantor required?
+A: A guarantor is not required for standard personal loans. However, for applicants with CIBIL scores between 650–699, a co-applicant or guarantor may be requested.
+
+5. LOAN MANAGEMENT
+-------------------
+
+Q: How can I check my loan balance and EMI schedule?
+A: Log in to our mobile app or internet banking portal. Navigate to 'My Loans' to view outstanding balance, EMI schedule, and payment history.
+
+Q: Can I get a top-up loan on my existing personal loan?
+A: Yes, after 12 months of regular repayment with no defaults, you may be eligible for a top-up loan of up to 50% of the original loan amount.
+
+Q: What happens if I miss an EMI?
+A: Missing an EMI triggers a late payment charge. After 3 consecutive missed EMIs, the account is classified as NPA (Non-Performing Asset), which severely impacts your CIBIL score and may lead to legal recovery proceedings.
+
+Q: How do I apply for a personal loan?
+A: You can apply through: (1) Our mobile app, (2) Internet banking portal, (3) Visiting any branch, (4) Calling our helpline at 1800-XXX-XXXX. Online applications receive faster processing.
+
+6. SPECIAL SCHEMES
+-------------------
+
+Q: Are there any special personal loan schemes?
+A: Yes, we offer:
+- Salary Advance Loan: Up to 3 months' salary for salaried customers, disbursed in 2 hours
+- Festival Loan: Special rates during Diwali, Eid, and Christmas — rates starting at 9.99% p.a.
+- Medical Emergency Loan: Disbursed within 6 hours for medical emergencies with minimal documentation
+- Education Loan (Personal): For professional courses, up to Rs. 10,00,000 at 11% p.a.

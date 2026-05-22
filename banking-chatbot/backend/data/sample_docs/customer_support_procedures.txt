@@ -1,0 +1,158 @@
+CUSTOMER SUPPORT PROCEDURES & ESCALATION GUIDE
+================================================
+
+1. COMPLAINT REGISTRATION
+--------------------------
+
+How to Register a Complaint:
+Customers can register complaints through multiple channels:
+
+Channel 1 - Mobile App:
+- Open the app → Tap 'Help & Support' → Select 'Raise a Complaint'
+- Choose complaint category → Describe issue → Submit
+- You will receive a Complaint Reference Number (CRN) via SMS and email
+
+Channel 2 - Internet Banking:
+- Login → Go to 'Service Requests' → 'New Complaint'
+- Fill in details and submit → CRN generated immediately
+
+Channel 3 - Phone Banking:
+- Call 1800-XXX-XXXX (toll-free, available 24x7)
+- IVR options: Press 1 for Account, Press 2 for Cards, Press 3 for Loans, Press 0 for Agent
+- Average wait time: 3–5 minutes during business hours
+
+Channel 4 - Branch Visit:
+- Visit any branch during working hours (Mon–Sat, 10 AM – 4 PM)
+- Submit written complaint to Branch Manager
+- Receive acknowledgment receipt with CRN
+
+Channel 5 - Email:
+- Send to: customercare@bank.com
+- Subject line format: [Complaint] - [Account Number] - [Issue Type]
+- Response within 24 hours
+
+2. SLA TIMELINES (SERVICE LEVEL AGREEMENTS)
+--------------------------------------------
+
+Priority 1 - Critical (Same Day Resolution):
+- Unauthorized transactions / fraud
+- Card blocked incorrectly
+- Account frozen without notice
+- ATM cash not dispensed but account debited
+
+Priority 2 - High (1–3 Working Days):
+- Failed fund transfers (NEFT/RTGS/IMPS)
+- Incorrect charges or fees
+- Cheque return issues
+- Internet banking access problems
+
+Priority 3 - Medium (3–7 Working Days):
+- Statement discrepancies
+- Address/contact update requests
+- Nominee addition/change
+- Cheque book requests
+
+Priority 4 - Low (7–15 Working Days):
+- General account queries
+- Product information requests
+- Feedback and suggestions
+
+3. ESCALATION MATRIX
+---------------------
+
+Level 1 - Customer Service Representative:
+- First point of contact
+- Resolves standard queries and complaints
+- Escalates if unresolved within SLA
+
+Level 2 - Senior Customer Service Officer:
+- Handles escalated complaints
+- Authority to waive charges up to Rs. 2,000
+- Contact: Escalate through app or ask for supervisor on phone
+
+Level 3 - Branch Manager / Regional Grievance Officer:
+- Handles complex disputes
+- Authority to waive charges up to Rs. 10,000
+- Contact: Visit branch or email regional.grievance@bank.com
+
+Level 4 - Nodal Officer (Head Office):
+- Final internal escalation
+- Contact: nodalofficer@bank.com
+- Response within 7 working days
+
+Level 5 - Banking Ombudsman (RBI):
+- External escalation if bank fails to resolve within 30 days
+- Website: https://cms.rbi.org.in
+- No fee for filing complaint
+
+4. FRAUD REPORTING & CARD BLOCKING
+------------------------------------
+
+Immediate Card Block (24x7):
+- Call: 1800-XXX-XXXX → Press 2 for Cards → Press 1 to Block
+- Mobile App: Cards → Select Card → Block Card (instant)
+- SMS: Send 'BLOCK XXXX' (last 4 digits) to 56161
+
+What to Do If You Suspect Fraud:
+Step 1: Immediately block your card (see above)
+Step 2: Call fraud helpline: 1800-XXX-XXXX (dedicated fraud line, 24x7)
+Step 3: File a complaint with CRN
+Step 4: File a police complaint (FIR) for amounts above Rs. 10,000
+Step 5: Submit fraud dispute form within 7 days for zero-liability protection
+
+Chargeback Process:
+- Raise dispute within 45 days of transaction date
+- Provisional credit within 10 working days
+- Final resolution within 45–90 days (as per card network timelines)
+
+5. ACCOUNT FREEZE & UNFREEZE
+------------------------------
+
+Reasons for Account Freeze:
+- Suspicious transaction patterns
+- KYC non-compliance
+- Court order or regulatory directive
+- Customer request (self-freeze for security)
+
+To Unfreeze Account:
+- Visit home branch with valid KYC documents
+- Submit written request with explanation
+- Processing time: 1–3 working days for KYC-related freeze
+- Court-ordered freeze: Requires court order reversal
+
+Self-Freeze (Customer-Initiated):
+- Available through mobile app for immediate security
+- Can be reversed through app or branch visit
+- Useful when card/credentials are suspected compromised
+
+6. DISPUTE RESOLUTION PROCESS
+-------------------------------
+
+For Transaction Disputes:
+1. Raise dispute within 45 days of transaction
+2. Bank investigates with merchant/payment network
+3. Provisional credit may be applied within 10 days
+4. Final resolution communicated within 45 days
+
+For Loan Disputes:
+1. Submit written dispute with supporting documents
+2. Loan department review within 10 working days
+3. If unresolved, escalate to Nodal Officer
+4. RBI Ombudsman as final recourse
+
+For Credit Card Billing Disputes:
+1. Raise dispute before payment due date to avoid interest
+2. Disputed amount placed on hold (no interest during investigation)
+3. Resolution within 30–45 days
+
+7. CONTACT DIRECTORY
+---------------------
+
+General Customer Care: 1800-XXX-XXXX (24x7, toll-free)
+Credit Card Helpline: 1800-XXX-YYYY (24x7, toll-free)
+Loan Support: 1800-XXX-ZZZZ (Mon–Sat, 8 AM – 8 PM)
+Fraud Reporting: 1800-XXX-XXXX (24x7, dedicated line)
+NRI Services: +91-22-XXXX-XXXX
+Email: customercare@bank.com
+Nodal Officer: nodalofficer@bank.com
+Website: www.bank.com
