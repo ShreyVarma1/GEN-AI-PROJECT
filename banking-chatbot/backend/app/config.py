@@ -7,7 +7,7 @@ class Settings(BaseSettings):
     LLM_MODEL: str = "gemini-2.0-flash"   # fast & free-tier friendly; swap to gemini-2.5-flash for higher quality
 
     # Embedding Configuration
-    EMBEDDING_MODEL: str = "all-MiniLM-L6-v2"
+    EMBEDDING_MODEL: str = "models/text-embedding-004"
 
     # ChromaDB Configuration
     CHROMA_PERSIST_DIR: str = "./chroma_db"
