@@ -3,7 +3,7 @@ services:
     name: banking-chatbot-backend
     env: python
     plan: free
-    buildCommand: pip install -r requirements.txt && python ../data_generator/generate_banking_docs.py || true
+    buildCommand: pip install -r requirements.txt
     startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
     rootDir: banking-chatbot/backend
     envVars:
