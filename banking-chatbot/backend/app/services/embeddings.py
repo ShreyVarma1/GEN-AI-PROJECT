@@ -13,7 +13,7 @@ class EmbeddingService:
     No local model download required — ideal for free-tier cloud deployment.
     """
 
-    def _get_client(self):
+    def _get_genai(self):
         import google.generativeai as genai
         if not settings.GOOGLE_API_KEY:
             raise RuntimeError("GOOGLE_API_KEY is not set.")
@@ -24,24 +24,21 @@ class EmbeddingService:
         """Embed a list of text strings. Returns List[List[float]]."""
         if not texts:
             return []
-        genai = self._get_client()
+        genai = self._get_genai()
         embeddings = []
-        # Google embedding API supports batches — process in chunks of 100
-        batch_size = 100
-        for i in range(0, len(texts), batch_size):
-            batch = texts[i:i + batch_size]
+        for text in texts:
             result = genai.embed_content(
                 model="models/text-embedding-004",
-                content=batch,
+                content=text,
                 task_type="retrieval_document",
             )
-            embeddings.extend(result["embedding"])
+            embeddings.append(result["embedding"])
         logger.info(f"Embedded {len(texts)} texts via Google text-embedding-004")
         return embeddings
 
     def embed_query(self, query: str) -> List[float]:
         """Embed a single query string. Returns List[float]."""
-        genai = self._get_client()
+        genai = self._get_genai()
         result = genai.embed_content(
             model="models/text-embedding-004",
             content=query,
