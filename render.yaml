@@ -5,7 +5,7 @@ services:
     plan: free
     buildCommand: pip install -r requirements.txt && python ../data_generator/generate_banking_docs.py || true
     startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
-    rootDir: backend
+    rootDir: banking-chatbot/backend
     envVars:
       - key: GOOGLE_API_KEY
         sync: false
@@ -28,13 +28,11 @@ services:
       - key: ALLOWED_ORIGINS
         value: "*"
 
-  - type: web
+  - type: static
     name: banking-chatbot-frontend
-    env: static
-    plan: free
     buildCommand: npm ci && npm run build
     staticPublishPath: dist
-    rootDir: frontend
+    rootDir: banking-chatbot/frontend
     envVars:
       - key: VITE_API_URL
         fromService:
